@@ -1,1 +1,1 @@
-web: sh setup.sh && streamlit run IPL.py
+worker: sh setup.sh && streamlit run IPL.py
